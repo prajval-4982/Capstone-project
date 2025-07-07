@@ -1,0 +1,5 @@
+ID,SystemCodeNumber,Capacity,Latitude,Longitude,Occupancy,VehicleType,TrafficConditionNearby,QueueLength,IsSpecialDay,LastUpdatedDate,LastUpdatedTime
+0,BHMBCCMKT01,100,26.144536,91.736172,30,car,low,2,0,04-10-2016,08:00:00
+1,BHMBCCMKT01,100,26.144536,91.736172,45,car,low,3,0,04-10-2016,08:30:00
+2,BHMBCCMKT01,100,26.144536,91.736172,60,car,low,4,1,04-10-2016,09:00:00
+3,BHMBCCMKT01,100,26.144536,91.736172,80,car,high,5,0,04-10-2016,09:30:00
